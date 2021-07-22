@@ -1,2 +1,6 @@
 # SuperVRC
-vinesauce rom corruptor but cross platform and not 8 years since an update
+## Aims
+
+- [ ] Have all features of original VRC
+- [ ] Support Linux, macOS X and Windows 10
+- [ ] "Smart offsets" for different systems, and/or BIOSes
